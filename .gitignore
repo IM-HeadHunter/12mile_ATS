@@ -1,5 +1,6 @@
 sources/
 AGENTS.md
+.repo-review/
 
 __pycache__/
 *.py[cod]
