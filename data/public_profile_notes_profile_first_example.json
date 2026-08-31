@@ -1,0 +1,18 @@
+[
+  {
+    "candidate_name": "Example Candidate",
+    "candidate_id": null,
+    "platform": "GitHub",
+    "url": "https://github.com/example",
+    "title": "example - GitHub profile",
+    "summary": "Short factual summary from the public page. Do not infer identity beyond the evidence below.",
+    "evidence": [
+      "Public page name matches the candidate name.",
+      "At least one additional signal such as location, employer, email, portfolio domain, or distinctive project history matches."
+    ],
+    "confidence": "medium",
+    "review_status": "profile_first",
+    "source_query": "site:github.com \"Example Candidate\" developer OR engineer",
+    "notes": "This file is an example only. Use real reviewed profile data before importing."
+  }
+]

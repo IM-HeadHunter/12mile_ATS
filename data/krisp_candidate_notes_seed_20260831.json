@@ -1,0 +1,206 @@
+[
+  {
+    "meeting_id": "019cfd46ccaf759a82bed2df48f4d312",
+    "title": "Alex - Senior Developer Interview",
+    "date": "2026-03-17T15:30:01-04:00",
+    "url": "https://app.krisp.ai/m/019cfd46ccaf759a82bed2df48f4d312?active_tab=ai_notes",
+    "speakers": [],
+    "candidate_name": "Alexander Krasnoshchekov",
+    "candidate_id": 816,
+    "confidence": "reviewable_match_name_and_stack",
+    "key_points": [
+      "Purpose of the meeting: Mark interviews Alex, a senior developer, to assess fit for an Armstrong Fluid Technologies role.",
+      "Alex's recent experience included AWS ECS, Lambda, RDS Postgres, Redis, Node.js, Golang, and Python.",
+      "The role needs a senior developer who can understand legacy .NET intent and build Python/API bridges into the AWS SaaS platform.",
+      "Alex confirmed strong .NET credentials and comfort with Python over JavaScript.",
+      "Alex proposed using AI agents to analyze legacy .NET code and generate reports, with human oversight for hallucinations.",
+      "Next step: Mark to coordinate with Ali for a follow-up interview."
+    ],
+    "action_items": [
+      {"title": "Alex to follow up with Suman if no response received by end of the week.", "completed": false, "assignee": null},
+      {"title": "Mark to contact Ali to get available times and book a next-week interview slot for Alex.", "completed": false, "assignee": "Mark Dawson"}
+    ]
+  },
+  {
+    "meeting_id": "019e6f1a0c5673da85f30c65e8c40c3d",
+    "title": "Alex's Final Interview Prep",
+    "date": "2026-05-28T11:00:38-04:00",
+    "url": "https://app.krisp.ai/m/019e6f1a0c5673da85f30c65e8c40c3d?active_tab=ai_notes",
+    "speakers": ["Mark Dawson", "Alex"],
+    "candidate_name": "Alexander Krasnoshchekov",
+    "candidate_id": 816,
+    "confidence": "reviewable_match_name_continuation",
+    "key_points": [
+      "Final interview preparation meeting for Alex.",
+      "Imported from Krisp metadata; full structured notes were not present in the search result."
+    ],
+    "action_items": []
+  },
+  {
+    "meeting_id": "019e1d5875ac770cb14bd7ebf184fad9",
+    "title": "Mark Dawson <> Alex Interview",
+    "date": "2026-05-12T13:59:57-04:00",
+    "url": "https://app.krisp.ai/m/019e1d5875ac770cb14bd7ebf184fad9?active_tab=ai_notes",
+    "speakers": ["Mark Dawson"],
+    "candidate_name": "Alexander Krasnoshchekov",
+    "candidate_id": 816,
+    "confidence": "reviewable_match_name_continuation",
+    "key_points": [
+      "Mark to arrange and schedule an HR prescreen call for Alex.",
+      "Mark to provide Alex with context on what HR is looking for before the HR prescreen.",
+      "Mark to get Alex in front of the hiring manager after the HR prescreen."
+    ],
+    "action_items": [
+      {"title": "Mark to arrange and schedule an HR prescreen call for Alex.", "completed": false, "assignee": "Mark Dawson"},
+      {"title": "Mark to provide Alex with context on what HR is looking for before the HR prescreen call.", "completed": false, "assignee": "Mark Dawson"},
+      {"title": "Mark to get Alex in front of the hiring manager after the HR prescreen.", "completed": false, "assignee": "Mark Dawson"}
+    ]
+  },
+  {
+    "meeting_id": "019ce79c3097776dbf4b616fb411e7f9",
+    "title": "Technical Writer Interview - Andy",
+    "date": "2026-03-13T10:31:39-04:00",
+    "url": "https://app.krisp.ai/m/019ce79c3097776dbf4b616fb411e7f9?active_tab=ai_notes",
+    "speakers": [],
+    "candidate_name": "Andy Sutherland",
+    "candidate_id": 1329,
+    "confidence": "high_resume_email_and_title_match",
+    "key_points": [
+      "Andy brings 26 years of technical writing experience, primarily in enterprise and financial software, with relevant Rockwell hardware documentation work.",
+      "At Rockwell, Andy worked on PLC cabinet manuals and site documentation, including CAD drawings.",
+      "The role is to rewrite or update engineering manuals into proper product manuals for technical and non-technical audiences.",
+      "Likely tooling is FrameMaker; Andy confirmed strong FrameMaker experience.",
+      "Engagement could start project-by-project through Andy's company and move to full-time contract if initial work goes well.",
+      "Next step: interview with Roman, with Andy's portfolio and resume forwarded in advance."
+    ],
+    "action_items": [
+      {"title": "Forward Andy's portfolio and resume to Roman ahead of the next interview.", "completed": false, "assignee": null},
+      {"title": "Andy to prepare strong Rockwell examples relevant to Armstrong.", "completed": false, "assignee": "Andy Sutherland"},
+      {"title": "Arrange a conversation with Roman for next week.", "completed": false, "assignee": null}
+    ]
+  },
+  {
+    "meeting_id": "019ce3953a82773699fdab45fdd897f4",
+    "title": "Shreegant - Data Engineer Interview",
+    "date": "2026-03-12T15:45:33-04:00",
+    "url": "https://app.krisp.ai/m/019ce3953a82773699fdab45fdd897f4?active_tab=ai_notes",
+    "speakers": [],
+    "candidate_name": "Shreegant",
+    "confidence": "review_needed_no_resume_match",
+    "key_points": [
+      "Shreegant is working at Warner Brothers on data clean rooms projects using Snowflake and AWS Data Clean Rooms.",
+      "Prior Amazon experience spans Audible and Alexa, with hands-on work feeding ML models and building large-scale data pipelines.",
+      "AWS and Snowflake are primary strengths; Azure exposure is weaker.",
+      "Audible project involved multi-layer pipelines for hundreds of millions of customers and 800-900 million daily app session records.",
+      "The enterprise role required stronger .NET and Azure legacy-system experience than Shreegant had.",
+      "Recommendation was to redirect Shreegant toward the backend cloud team's upcoming data engineer role."
+    ],
+    "action_items": [
+      {"title": "Ronali to contact Shreegant in two to three weeks for the backend cloud data engineer role.", "completed": false, "assignee": "Ronali"}
+    ]
+  },
+  {
+    "meeting_id": "019cfc3c3f5a720aa101fc341a7c516e",
+    "title": "Technical Screen - Carlito",
+    "date": "2026-03-17T10:38:52-04:00",
+    "url": "https://app.krisp.ai/m/019cfc3c3f5a720aa101fc341a7c516e?active_tab=ai_notes",
+    "speakers": [],
+    "candidate_name": "Carlito",
+    "confidence": "review_needed_no_resume_match",
+    "key_points": [
+      "Carlito's core stack is C#, .NET, Python, React, ASP.NET, and Python-based test automation.",
+      "Motivation for leaving Legend is a desire for work with more positive societal impact.",
+      "Legend work included data pipelines calling third-party REST APIs, ingesting JSON/XML, normalizing via RabbitMQ, and storing in PostgreSQL.",
+      "Carlito uses local Ollama/Llama for code template generation, test data, and unit tests, while noting proprietary-code security concerns.",
+      "Systems design and enterprise-to-cloud architecture thinking were identified as key skills for the Armstrong role.",
+      "Next step was a technical interview with a global architect focused on deep systems design."
+    ],
+    "action_items": [
+      {"title": "Carlito to follow up with Suman if he has additional questions.", "completed": false, "assignee": "Carlito"},
+      {"title": "Set up next steps and schedule the technical interview with a global architect.", "completed": false, "assignee": null}
+    ]
+  },
+  {
+    "meeting_id": "019cf7d16b1873d9ba15078f5e384983",
+    "title": "Candidate Screen - Namita",
+    "date": "2026-03-16T14:03:42-04:00",
+    "url": "https://app.krisp.ai/m/019cf7d16b1873d9ba15078f5e384983?active_tab=ai_notes",
+    "speakers": [],
+    "candidate_name": "Namita Chauhan",
+    "candidate_id": 17,
+    "confidence": "high_resume_email_and_filename_match_candidate_rollup_name_needs_fix",
+    "key_points": [
+      "Namita's most recent role was Service Business Leader at Honeywell, with full P&L accountability for a 15M+ portfolio across P3 healthcare contracts.",
+      "Sourcing and vendor consolidation initiatives delivered significant margin gains.",
+      "Namita has roots in power and utilities and wants to return to that sector.",
+      "She wants cross-functional enterprise-level work focused on execution and operational improvement.",
+      "Target companies included ABB, Alstom, Eaton, GE Vernova, Schneider competitors in Canada, solar, and battery storage.",
+      "Mark confirmed Namita as a quality candidate and committed to putting out feelers with Tyler."
+    ],
+    "action_items": [
+      {"title": "Mark to work with Tyler to put feelers out to target companies on Namita's behalf.", "completed": false, "assignee": "Mark Dawson"}
+    ]
+  },
+  {
+    "meeting_id": "019ce769c95b70ddb61026877e0ac429",
+    "title": "Candidate Screen - Jay (Armstrong)",
+    "date": "2026-03-13T09:36:36-04:00",
+    "url": "https://app.krisp.ai/m/019ce769c95b70ddb61026877e0ac429?active_tab=ai_notes",
+    "speakers": [],
+    "candidate_name": "Jay",
+    "confidence": "review_needed_multiple_jay_candidates",
+    "key_points": [
+      "Jay's background at Musashi Auto Parts includes leading global data analytics across 35 countries and introducing Microsoft Fabric company-wide.",
+      "Financial reporting automation reduced month-end close from one week to one day.",
+      "Jay is seeking hands-on data engineering with growing leadership responsibility.",
+      "Role discussed: greenfield enterprise data role at Armstrong involving scalable pipelines for legacy and real-time sensor data.",
+      "Next step: direct conversation between Jay and Ali."
+    ],
+    "action_items": [
+      {"title": "Find Ali calendar slots and send them to Jay.", "completed": false, "assignee": null}
+    ]
+  },
+  {
+    "meeting_id": "01a016107a2d749e93c2f4953189ab9f",
+    "title": "Mark Dawson <> Hussein Introduction",
+    "date": "2026-08-18T15:01:53-04:00",
+    "url": "https://app.krisp.ai/m/01a016107a2d749e93c2f4953189ab9f?active_tab=ai_notes",
+    "speakers": ["Mark Dawson", "Sweta", "Hussein"],
+    "candidate_name": "Hussein Chaitou",
+    "candidate_id": 1366,
+    "confidence": "high_resume_name_match",
+    "key_points": [
+      "Purpose: Mark interviews Hussein, an OT/IoT architecture candidate, for a senior architect role at Armstrong Fluid Technologies.",
+      "Hussein's recent work involved OT/OM architecture for multi-plant manufacturing, integrating SAP, ServiceNow, and agentic AI.",
+      "Hussein wants to apply AI, architecture, cybersecurity, and GRC rather than a narrow security-only mandate.",
+      "The open role reports to the CTO and spans backend, embedded hardware, enterprise, and controls teams.",
+      "Compensation expectations aligned: 200K base full-time or 130/hour contract.",
+      "Next step: Mark to arrange a direct conversation between Hussein and CTO Daniel."
+    ],
+    "action_items": [
+      {"title": "Mark to contact CTO Daniel to arrange an introductory meeting with Hussein.", "completed": false, "assignee": "Mark Dawson"},
+      {"title": "Sweta to stay in touch with Hussein to coordinate scheduling.", "completed": false, "assignee": "Sweta"}
+    ]
+  },
+  {
+    "meeting_id": "019fb3b79b58713d9ed95239a4cb718c",
+    "title": "Aksh Patel Candidate Discussion",
+    "date": "2026-07-30T11:49:42-04:00",
+    "url": "https://app.krisp.ai/m/019fb3b79b58713d9ed95239a4cb718c?active_tab=ai_notes",
+    "speakers": ["Mark Dawson"],
+    "candidate_name": "Aksh Patel",
+    "confidence": "review_needed_no_resume_match",
+    "key_points": [
+      "Meeting focused on evaluating Aksh Patel from LG for an open engineering role.",
+      "Aksh had prior contact with the firm but had not had a detailed discussion.",
+      "Aksh expressed skepticism after two prior office contacts did not follow up.",
+      "Speaker_2 called Aksh to apologize and scheduled a 3 PM call.",
+      "Follow-up on the role was planned for the following Tuesday."
+    ],
+    "action_items": [
+      {"title": "Speaker_2 to call Aksh at 3 PM to discuss the engineering position.", "completed": false, "assignee": null},
+      {"title": "Speaker_2 to update Mark on how the call goes.", "completed": false, "assignee": null},
+      {"title": "Mark to follow up on the position with Speaker_2 on Tuesday.", "completed": false, "assignee": "Mark Dawson"}
+    ]
+  }
+]

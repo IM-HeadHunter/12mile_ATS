@@ -1,0 +1,19 @@
+[
+  {
+    "candidate_name": "Example Candidate",
+    "candidate_id": null,
+    "platform": "GitHub",
+    "url": "https://github.com/example",
+    "title": "example - GitHub profile",
+    "summary": "Short factual summary from the public page. Do not infer identity beyond the evidence below.",
+    "evidence": [
+      "Public page name matches the candidate resume name.",
+      "Location, employer, portfolio domain, or email matches the resume.",
+      "Repository/activity evidence is relevant to the candidate's stated skill set."
+    ],
+    "confidence": "high | medium | low",
+    "review_status": "approved | profile_first | review_needed | rejected",
+    "source_query": "site:github.com \"Example Candidate\" developer OR engineer",
+    "notes": "Optional recruiter notes."
+  }
+]
